@@ -1,11 +1,21 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: olivedrab;
+
+
+body {
+    font-family: "Roboto", sans-serif;
 }
 
-h2 {
+h1 {
     font-style: italic;
     font-weight: bold;
-    font-size: 1.75em;
+    font-size: normal;
+    letter-spacing: .2em;
+    line-height: 1.5;
+    text-align: left;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: darkcyan;
 }
