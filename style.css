@@ -19,3 +19,20 @@ p {
     font-family: 'Roboto', sans-serif;
     color: darkcyan;
 }
+
+.parrafo {
+    text-align: center;
+    text-indent: -1em;
+    text-overflow: ellipsis;
+    text-shadow: darkslategray 2px 2px 4px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+#nombre {
+    text-transform: capitalize;
+}
