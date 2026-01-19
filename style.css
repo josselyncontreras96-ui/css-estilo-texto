@@ -83,7 +83,7 @@ a {
 a:link {
   color: blue;
 }
-a;:active {
+a:active {
   color: red;
 }
 a:visited {
@@ -98,5 +98,3 @@ input:focus {
   background-color: lightsalmon;
   outline-color: blue;
 }
-
-
